@@ -1,0 +1,39 @@
+img{
+  height: 150px;
+   width: 150px;
+   margin: 50px 30px 20px 100px;
+}
+
+
+
+.abc{
+  margin:10px 20px 30px 100px;
+  font-size:larger;
+  color: white;
+}
+
+body{
+  background-image: url(background.gif);
+  background-size: cover;
+}
+
+.ex1{
+  margin-right: 20px;
+}
+abc{
+margin: 30px 40px 30px 50px; 
+}
+.about{
+  color: white;
+
+}
+
+.abcd{
+  
+  margin-bottom: 100px;
+  margin-right: 50px;
+}
+
+#about{
+  
+}
